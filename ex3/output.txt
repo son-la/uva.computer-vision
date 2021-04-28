@@ -1,0 +1,25 @@
+>> bonus_exercise
+Input size: 64x64x3
+--- Convulational layer 1 ---
+Output size: 64x64x32
+Number of learnable parameters: 2432
+Number of scalar multiplication: 104857600
+--- Max pooling layer 1 ---
+Output size: 16x16x32
+Number of learnable parameters: 0
+--- Convulational layer 2 ---
+Output size: 16x16x32
+Number of learnable parameters: 25632
+Number of scalar multiplication: 6553600
+--- Max pooling layer 2 ---
+Output size: 4x4x32
+Number of learnable parameters: 0
+--- Flatten layer ---
+Output size: 512
+Number of learnable parameters: 0
+--- Dense layer 1 ---
+Output size: 100
+Number of learnable parameters: 51200
+--- Dense layer 2 ---
+Output size: 1
+Number of learnable parameters: 100

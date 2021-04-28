@@ -1,0 +1,85 @@
+Value of the output y with the given values: 
+
+y =
+
+    0.5000
+
+Loss value: 
+
+loss =
+
+    0.1250
+
+Values of the partial derivative with the given value: 
+
+dE_over_dw4 =
+
+   -0.2500
+
+
+dE_over_dw3 =
+
+   -0.0625
+
+
+dE_over_db2 =
+
+   -0.1250
+
+
+dE_over_dw2 =
+
+   -0.1250
+
+
+dE_over_dw1 =
+
+   -0.2500
+
+
+dE_over_db1 =
+
+   -0.1250
+
+Updated parameter values: 
+
+w4 =
+
+   -0.7500
+
+
+w3 =
+
+    4.0625
+
+
+w2 =
+
+   -0.8750
+
+
+w1 =
+
+    1.2500
+
+
+b2 =
+
+    0.1250
+
+
+b1 =
+
+    1.1250
+
+Value of the output y with the updated parameters: 
+
+y =
+
+    0.7809
+
+Loss value with the updated parameters
+
+loss =
+
+    0.0240
